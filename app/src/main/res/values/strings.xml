@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="dashboard">Dashbard</string>
+    <string name="profile">Profile</string>
+    <string name="favourites">Favourites</string>
+    <string name="about_app">About App</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fargment">About App Fargment</string>
+    <string name="author_name">Author Name</string>
+    <string name="book_name">Book Name</string>
+    <string name="book_price">Rs. 299</string>
+    <string name="add_to_favourite">Add to favourite</string>
+    <string name="sort_by_ratings">Sort by ratings</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="log_in">LOG IN</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_phone_no">Enter Phone No.</string>
+    <string name="preference_name">Avengers Preferences</string>
+    <string name="log_out">Log Out</string>
+    <string name="user_name">User Name</string>
+    <string name="username_gmail_com">username@gmail.com</string>
+    <string name="user_phone">9876543210</string>
+    <string name="user_address">Mahendragarh</string>
+</resources>

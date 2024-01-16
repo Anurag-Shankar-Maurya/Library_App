@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <!--CHECKABLE SINGLE: only one could be checked at once-->
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@drawable/ic_dashboard"
+            android:title="@string/dashboard" />
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/favourites"
+            android:icon="@drawable/ic_favourites"
+            android:title="@string/favourites" />
+        <item
+            android:id="@+id/aboutApp"
+            android:icon="@drawable/ic_about_app"
+            android:title="@string/about_app" />
+        <item
+            android:id="@+id/LogOut"
+            android:icon="@drawable/ic_log_out"
+            android:title="@string/log_out" />
+    </group>
+</menu>

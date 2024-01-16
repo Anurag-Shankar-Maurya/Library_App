@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".fragment.AboutAppFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:text="Our app is designed to create a seamless book buying and selling experience for book lovers. With a user-friendly interface, it offers various features such as a Dashboard for easy navigation, a Profile section for personalization, a Favourites list for bookmarking preferred books, and a Logout option for secure exit."
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:text="In the “About App” section, you’ll find detailed information about the app’s development, its version, and updates. It also includes the terms of service, privacy policy, and user agreement to ensure transparency with our users."
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:text="Furthermore, it provides insights into the team behind the app - a group of dedicated professionals committed to providing an exceptional user experience. This section also provides contact information for customer support, ensuring that help is just a click away if users encounter any issues or have queries."
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="80dp"
+            android:text="Our goal is to foster a love for reading by making buying and selling books as easy and enjoyable as possible. We continually strive to improve our app based on user feedback and are committed to delivering an unrivaled online book marketplace. Enjoy exploring the world of books with us!"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</ScrollView>

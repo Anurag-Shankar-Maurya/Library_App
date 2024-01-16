@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#0072AF</color>
+    <color name="colorPrimaryDark">#005A8A</color>"
+    <color name="colorPrimaryLight">#E8F7FF</color>
+    <color name="colorTranslucentDark">#CBFFFFFF</color>
+    <color name="colorTranslucent">#2CFFFFFF</color>
+    <color name="colorFavourite">#FF9D35</color>
+    <color name="colorRating">#FFC107</color>
+    <color name="fragmentHead">#E1E1E1</color>
+    <color name="colorBookPrice">#00C300</color>
+</resources>
